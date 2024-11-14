@@ -1,0 +1,39 @@
+% %%titleformat T0 , T0, T-1
+X: 1 % start of header
+T:1AdventOffertory
+T:Psalm 25 : 1-3 A Psalm Of Individual Lament % Second Title
+T:United States Conference Of Catholic Bishops % Last Title
+C:182  Solesmes
+L:1/4
+M:4/4
+Q:1/4 = 159 "Lively"
+K: D minor % scale: D minor , 1 flat, end of header 
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ (D2 | F2 G2) | (F2 G2 | F2 G2 | B4 | B4 | A2) z2 |
+w: To || you, |||||
+ (G4 | A2) (B2 | A2 G2 | A4 | G4) | z4 |
+w: O |* Lord, |||||
+ (G4 | F2) (G2 | G2 A2 | B4 | A2 G2) | (B4 | B2 G2 | F2) z2 |
+w: I |* lift |||| up |||
+ z2 (G2 | B4 | B2 G2 | G2 A2 | F2 G2) | (G4 | A4 | G4 | G4) | z4 |
+w: my ||||| soul, |||||
+ B4 | (B2 c2 | B4) | z4 | 
+w: my | God, |||
+ (A4 | G4 | F2) (G2 | G2 F2) | (G2 B2 | A2 F2) | (G4 | F4) | z4 |
+w: In ||* you || I || trust; |||
+ B4 | c2 B2 | (B2 c2) | (A2 B2) | (B4 | c4 | B4) | B4 | z4 |
+w: do | not let | me | be | dis- ||| graced, || 
+ B4 | B4 | A2 B2 | B4 | G2 (F2 | F2 A2) | B2 A2 | (G4 | A2 G2) | G4 | z4 | 
+w: do | not | let my | en- | e- mies || gloat o- | ver || me. || 
+ F2 A2 | c4 | B2 B2 | (B4 | G2) (A2 | G2 F2) | G4 | F4 | z4 |
+w: No one | is | dis- graced | who |* waits || for | you, ||
+ (G2 F2 | G2 A2) | (G4 | D2) (F2 | G2 F2 | G4 | c2) z2 |
+w: but || on- |* ly |||||
+ (B4 | c2 B2 | A2) ( G2 | F4 | G2 F2 | G2 F2) | (D4 | C2 D2) | z4 |  
+w: those ||* who |||| are |||
+ (F2 G2) | (F2 G2) | (G4 | A2 B2 | c2 A2) | z4 |
+w: treach- | er- | ous ||||  
+ (B4 | A2) (G2 | A2 B2 | A2 G2) | (A4 | G4) |
+w: with- |* out ||| cause. ||]   
+ 
